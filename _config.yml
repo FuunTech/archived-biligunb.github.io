@@ -1,9 +1,9 @@
 # Site settings
-title: biligunb
+title: Biligunb
 email: biligunb@gmail.com
 url: https://biligunb.github.io
-description: "biligunb's online resume. 2B | +1% better 2day | cv.001"
-keywords: "biligunb, билигүнб, resume, cv, cover letter, interview, developer, engineer, programmer, researcher"
+description: "biligunb's online resume. 2B +1% better 2day cv.001"
+keywords: "biligunb, resume, cv, cover letter, interview, developer, engineer, programmer, researcher"
 skills: "Web Developer - AI/ML/DL enthusiast - Blockchain/DLT researcher - Mobile app (Hybrid) designer"
 meta_author: Bayarsaikhan Bilguun
 
@@ -39,8 +39,6 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/biligunb
   - title: facebook
     url: http://www.facebook.com/biligunb
   - title: stack-overflow
@@ -58,7 +56,7 @@ address:
   - line: Ulaanbaatar, Mongolia
 
 # Credits content
-credits: 'biligunb's online resume. Created by <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer Jekyll theme</a>'
+credits: 'biligunb is online resume, created by using <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer Jekyll theme</a>.'
 
 # Build settings
 markdown: kramdown
