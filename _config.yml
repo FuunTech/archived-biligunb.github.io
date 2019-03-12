@@ -61,3 +61,4 @@ credits: 'biligunb is online resume, created by using <a href="https://github.co
 # Build settings
 markdown: kramdown
 permalink: pretty
+future: true
